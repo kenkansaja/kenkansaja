@@ -18,11 +18,13 @@
 ### Mari terhubung!
 <p>
     <a href="https://t.me/kenkanasw" target="blank"><img src="https://img.shields.io/badge/@kenkanasw-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/musikkugroup" target="blank"><img src="https://img.shields.io/badge/MUSIK KU GROUP-black?style=flat&logo=telegram" /></a>
+
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Penghargaan GitHub](https://github-profile-trophy.vercel.app/?username=kenkannih)
+![GitHub Award](https://github-profile-trophy.vercel.app/?username=kenkannih)
 
 </details>
 
