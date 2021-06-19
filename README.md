@@ -1,6 +1,6 @@
 
 
-## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/kenkanasw) 
+## 📨 Hubungi Saya di [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/kenkanasw) 
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=kenkannih&color=blue&style=flat-square&label=Profile+Views)
@@ -10,18 +10,19 @@
 
 
 <p>
+    <img src=https://img.shields.io/badge/Spck-Pro-green?&logo=spckpro" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-### Let's connect!
+### Mari terhubung!
 <p>
     <a href="https://t.me/kenkanasw" target="blank"><img src="https://img.shields.io/badge/@kenkanasw-30302f?style=flat&logo=telegram" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=kenkannih)
+![Penghargaan GitHub](https://github-profile-trophy.vercel.app/?username=kenkannih)
 
 </details>
 
