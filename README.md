@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/kenkanasw) 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=kenkannih&color=blue&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=kenkannih&color=green&style=flat-square&label=Profile+Views)
 ### Stats:
 <p align="center"><a href="https://github.com/kenkannih"><img src="https://github-readme-stats.vercel.app/api?username=kenkannih&show_icons=true&theme=onedark"></a></p>
 <p align="center"><a href="https://github.com/kenkannih"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenkannih&theme=radical&layout=compact"></a></p> 
