@@ -1,5 +1,9 @@
 <p align="center"><img src="https://2.bp.blogspot.com/-eBu3-f3vzW0/V3E8UnYXsfI/AAAAAAAADHI/lJrPAoLSE70aO0F3W9fruZ8O-qJY76MSwCLcB/s1600/gambar-gerak-gif-chip-and-dale-terbaru.gif" style="width:100%"></p>
 
+#### NAMA👮  : KENKAN
+#### ALAMAT💬 : SEMARANG
+#### INFO🏆       : HANYA AMATIRAN DAN TIDAK PUNYA BASIC PEMROGAMAN.
+
 ## 📨 HUBUNGI SAYA DI
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/kenkanasw) 
@@ -9,7 +13,6 @@
 ### Stats:
 <p align="center"><a href="https://github.com/kenkannih"><img src="https://github-readme-stats.vercel.app/api?username=kenkannih&show_icons=true&theme=onedark"></a></p>
 <p align="center"><a href="https://github.com/kenkannih"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenkannih&theme=radical&layout=compact"></a></p> 
-
 
 <p>
     <img src=https://img.shields.io/badge/Spck-Pro-green?style=logo=spckpro" />
