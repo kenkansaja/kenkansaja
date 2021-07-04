@@ -38,6 +38,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=kenkannih&repo=Music-Ken&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=kenkannih&repo=ElsaBot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=kenkannih&repo=Chatbot&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=kenkannih&repo=Chatbot2&theme=dark)
 
 
 </p>
