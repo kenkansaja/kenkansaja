@@ -21,7 +21,7 @@ TENTANGKU | KETERANGAN
 <p align="center"><a href="https://github.com/kenkannih"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenkannih&theme=radical&layout=compact"></a></p> 
 
 <p>
-    <img src="https://img.shields.io/badge/Spck-Editor Pro-green?style=lastic&logo=xcode&logoColor=yellow"width="200" height="30" />
+    <img src="https://img.shields.io/badge/Spck-Editor Pro-green?style=lastic&logo=json&logoColor=yellow"width="200" height="30" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?style=plastic&logo=xcode&logoColor=yellow"width="200" height="30" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=yellow"width="240" height="35" />
 </p>
