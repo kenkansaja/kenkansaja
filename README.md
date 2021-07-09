@@ -1,5 +1,9 @@
 <p align="center"><img src="https://2.bp.blogspot.com/-eBu3-f3vzW0/V3E8UnYXsfI/AAAAAAAADHI/lJrPAoLSE70aO0F3W9fruZ8O-qJY76MSwCLcB/s1600/gambar-gerak-gif-chip-and-dale-terbaru.gif" style="width:100%"></p>
+<p align="center">
+  <img src="./coollogo_com-7436339.png" alt="kenkan"width="400" height="60">
+</p>
 
+#
 ## BIO DATA
 
 - 🐿NAMA : KENKAN
