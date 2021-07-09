@@ -12,10 +12,6 @@ TENTANGKU | KETERANGAN
 💬ALAMAT | SEMARANG
 📣INFO | HANYA AMATIRAN DAN TIDAK PUNYA BASIC PEMROGAMAN.
 
-## 📨 HUBUNGI SAYA DI
-
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/kenkanasw) 
-<br>
 
 ![KEN KAN](https://komarev.com/ghpvc/?username=kenkannih&color=blue&style=flat-square&label=PROFIL+DILIHAT+👁‍🗨)
 
