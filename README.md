@@ -51,7 +51,8 @@ TENTANGKU | KETERANGAN
 
 ![GitHub Award](https://github-profile-trophy.vercel.app/?username=kenkannih)
 
-## 🏆GitHub Activity 🏆
+<summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/kenkannih?template=dark&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
 
+</details>
