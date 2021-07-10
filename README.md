@@ -1,3 +1,6 @@
+<h2>HAY KAK YANG BARU LIHAT PROFIL AKU <img src="wave1.gif"width="30" height="30"></h2>
+
+
 <p align="center">
   <a href="https://github.com/kenkannih/kenkannih/fork">
     <img src="https://img.shields.io/github/forks/kenkannih/kenkannih?color=yellow&label=FORK&logo=github&style=plastic"width="100" height="35"> 
