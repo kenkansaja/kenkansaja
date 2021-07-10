@@ -8,9 +8,9 @@
 
 TENTANGKU | KETERANGAN
 :---- | :----
-🐿NAMA | KENKAN
-💬ALAMAT | SEMARANG
-📣INFO | HANYA AMATIRAN DAN TIDAK PUNYA BASIC PEMROGAMAN.
+🐿 NAMA | KENKAN
+💬 ALAMAT | SEMARANG
+📣 INFO | HANYA AMATIRAN DAN TIDAK PUNYA BASIC PEMROGAMAN.
 
 
 ![KEN KAN](https://komarev.com/ghpvc/?username=kenkannih&color=blue&style=flat-square&label=PROFIL+DILIHAT+👁‍🗨)
