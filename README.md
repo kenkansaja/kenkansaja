@@ -14,6 +14,8 @@ TENTANGKU | KETERANGAN
 💬 ALAMAT | SEMARANG
 📣 INFO | HANYA AMATIRAN DAN TIDAK PUNYA BASIC PEMROGAMAN.
 
+#
+<p align="center"> ━━━━━━━━━━༻❁༺━━━━━━━━━━ </p>
 
 ![KEN KAN](https://komarev.com/ghpvc/?username=kenkannih&color=blue&style=flat-square&label=PROFIL+DILIHAT+👁‍🗨)
 
