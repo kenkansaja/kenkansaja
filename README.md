@@ -3,8 +3,10 @@
   <img src="https://telegra.ph/file/c9c7e24b03919fa5f8022.jpg" alt="kenkan">
 </p>
 
-#
-## BIO DATA
+<p align="center">┏━━━━━━༻❁༺━━━━━━┓ </p>
+<p align="center">BIO DATA</p>
+<p align="center">┗━━━━━━༻❁༺━━━━━━┛</p>
+
 
 TENTANGKU | KETERANGAN
 :---- | :----
