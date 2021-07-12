@@ -64,10 +64,10 @@ TENTANGKU | KETERANGAN
 
 ## 🏆 GitHub Awards 🏆
 
-![GitHub Award](https://github-profile-trophy.vercel.app/?username=kenkannih)
+![GitHub Award](https://github-profile-trophy.vercel.app/?username=kenkansaja)
 
 ## 🏆 GitHub Activity
 
-![Metrics](https://metrics.lecoq.io/kenkannih?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
+![Metrics](https://metrics.lecoq.io/kenkansaja?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
 
 
