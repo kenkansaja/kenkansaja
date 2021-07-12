@@ -35,6 +35,10 @@ TENTANGKU | KETERANGAN
 <p align="center"><a href="https://github.com/kenkansaja"><img src="https://github-readme-stats.vercel.app/api?username=kenkansaja&show_icons=true&theme=dark"></a></p>
 <p align="center"><a href="https://github.com/kenkansaja"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenkansaja&theme=radical&layout=compact"></a></p> 
 
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kenkansaja&theme=blue-green)          
+
+
 <p>
     <img src="https://img.shields.io/badge/Spck-Editor Pro-green?style=lastic&logo=json&logoColor=yellow"width="200" height="30" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?style=plastic&logo=xcode&logoColor=yellow"width="200" height="30" />
