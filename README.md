@@ -30,6 +30,8 @@ TENTANGKU | KETERANGAN
 
 ![KEN KAN](https://komarev.com/ghpvc/?username=kenkansaja&color=blue&style=flat-square&label=PROFIL+DILIHAT+👁‍🗨)
 
+![KEN KAN](https://komarev.com/ghpvc/?username=kenkannih&color=blue&style=flat-square&label=PROFIL+DILIHAT+👁‍🗨)
+
 
 ### Stats:
 <p align="center"><a href="https://github.com/kenkansaja"><img src="https://github-readme-stats.vercel.app/api?username=kenkansaja&show_icons=true&theme=dark"></a></p>
