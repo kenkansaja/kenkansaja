@@ -35,7 +35,7 @@ TENTANGKU | KETERANGAN
 
 ### Stats:
 <p align="center"><a href="https://github.com/kenkansaja"><img src="https://github-readme-stats.vercel.app/api?username=kenkansaja&show_icons=true&theme=dark"></a></p>
-<p align="center"><a href="https://github.com/kenkansaja"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenkansaja&theme=radical&layout=compact"></a></p> 
+
 
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kenkansaja&theme=blue-green)          
