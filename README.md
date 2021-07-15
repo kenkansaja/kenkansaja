@@ -62,11 +62,10 @@ TENTANGKU | KETERANGAN
 
 ## Repo Stats
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=kenkansaja&repo=Kaisar-userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=kenkansaja&repo=Music-Ken&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=kenkansaja&repo=ElsaBot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=kenkansaja&repo=Chatbot&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=kenkansaja&repo=Chatbot2&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=kenkansaja&repo=session-bot&theme=nightowl)
+
 
 
 ## 🏆 GitHub Awards 🏆
