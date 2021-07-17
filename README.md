@@ -24,8 +24,9 @@ TENTANGKU | KETERANGAN
 🐿 NAMA | KENKAN
 💬 ALAMAT | SEMARANG
 📣 INFO | HANYA AMATIRAN DAN TIDAK PUNYA BASIC PEMROGAMAN.
+👥 STATUS | JOMBLO 😭
 
-#
+
 <p align="center"> ━━━━━━━━━━༻❁༺━━━━━━━━━━ </p>
 
 ![KEN KAN](https://komarev.com/ghpvc/?username=kenkansaja&color=blue&style=flat-square&label=PROFIL+DILIHAT+👁‍🗨)
