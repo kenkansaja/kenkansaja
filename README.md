@@ -81,7 +81,7 @@ TENTANGKU | KETERANGAN
 <p align="center">
     <img
         width="96%"
-        src="https://github-profile-trophy.vercel.app/?username=kenkansaja&theme=blue"/>
+        src="https://github-profile-trophy.vercel.app/?username=kenkansaja&theme=darkhub"/>
 
 ## 🏆 GitHub Activity
 
