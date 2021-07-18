@@ -34,6 +34,14 @@ TENTANGKU | KETERANGAN
 ![KEN KAN](https://komarev.com/ghpvc/?username=kenkannih&color=blue&style=flat-square&label=PROFIL+DILIHAT+👁‍🗨)
 
 
+
+### GRAFIK CONTRIBUSI
+<p align="center">
+    <img
+        width="96%"
+        src="https://activity-graph.herokuapp.com/graph?username=kenkansaja&custom_title=Contribution+Graph&theme=xcode"/>
+</p>
+
 ### Stats:
 <p align="center"><a href="https://github.com/kenkansaja"><img src="https://github-readme-stats.vercel.app/api?username=kenkansaja&show_icons=true&theme=dark"></a></p>
 
