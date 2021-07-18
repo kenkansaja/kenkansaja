@@ -78,8 +78,10 @@ TENTANGKU | KETERANGAN
 
 
 ## 🏆 GitHub Awards 🏆
-
-![GitHub Award](https://github-profile-trophy.vercel.app/?username=kenkansaja)
+<p align="center">
+    <img
+        width="96%"
+        src="https://github-profile-trophy.vercel.app/?username=kenkansaja&theme=blue"/>
 
 ## 🏆 GitHub Activity
 
