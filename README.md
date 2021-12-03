@@ -76,10 +76,8 @@ TENTANGKU | KETERANGAN
 
 
 ## 🏆 GitHub Awards 🏆
-<p align="center">
-    <img
-        width="96%"
-        src="https://github-profile-trophy.vercel.app/?username=kenkansaja&theme=darkhub"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenkansaja&theme=dark" alt="kenkansaja" /></p>
+<a href="https://github.com/kenkansaja"> <img src="https://github-profile-trophy.vercel.app/?username=kenkansaja&row=2&column=3&theme=onedark" alt="KAN's-github"/> </a> 
 
 ## 🏆 GitHub Activity
 
