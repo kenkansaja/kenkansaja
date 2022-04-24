@@ -1,6 +1,6 @@
 <h2>HAY KAK YANG BARU LIHAT PROFIL AKU <img src="wave1.gif"width="30" height="30"></h2>
 
-<p align="center"><a href="https://trakteer.id/kenkansaja/tip"><img src="https://tif.ppion.org/wp-content/uploads/2018/11/donate-01.png"width="150" height="150"/></a></p>
+<p align="center"><a href="https://trakteer.id/kenkansaja/tip"><img src="https://telegra.ph/file/ef4fe20500468df67a875.jpg"/></a></p>
 
 <p align="center">
   <a href="https://github.com/kenkansaja/kenkansaja/fork">
